@@ -1,0 +1,7 @@
+def auto_sort(numbers):
+    numbers.sort()
+
+# Example usage
+numbers = [5, 2, 8, 1, 9, 3]
+auto_sort(numbers)
+print("Sorted numbers:", numbers)
